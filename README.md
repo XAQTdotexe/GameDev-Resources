@@ -470,6 +470,8 @@ Tools
   
 ### Texturing
 
+* :o2: [Caustics Generator](https://www.cathalmcnally.com/news/free-caustics-generator/) - A tool to create tileable caustic textures.
+* :free: [Effect Texture Maker](https://mebiusbox.github.io/contents/EffectTextureMaker/) - A webtool to generate (animated) textures for vfx.
 * :heavy_dollar_sign: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters. 
 * :heavy_dollar_sign: [PixPlant](http://www.pixplant.com/) - Smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos. 
 
